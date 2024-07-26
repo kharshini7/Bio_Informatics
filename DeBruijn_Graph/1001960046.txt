@@ -1,0 +1,6 @@
+gac
+acg
+cgc
+gcg
+tcg
+aga
